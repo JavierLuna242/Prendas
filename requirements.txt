@@ -4,3 +4,4 @@ streamlit==1.49.1
 streamlit-drawable-canvas==0.9.3
 pillow==11.3.0
 numpy==2.1.3
+# Streamlit Cloud debe usar Python 3.12 para estas versiones.
