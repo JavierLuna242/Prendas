@@ -1,0 +1,6 @@
+tensorflow==2.20.0
+keras==3.12.2
+streamlit==1.49.1
+streamlit-drawable-canvas==0.9.3
+pillow==11.3.0
+numpy==2.1.3
